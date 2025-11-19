@@ -8,7 +8,7 @@
 - 
 - 💞️ I’m looking to collaborate on cyber security and next generation mobile network security 
 - 
-- 📫 How to reach me info@edkedris.com
+- 📫 How to reach me ed.edris@edkedris.com
 
 <!---
 ededris/ededris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
